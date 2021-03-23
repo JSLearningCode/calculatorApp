@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    background-color: #555;
+}
+
+p {
+    font-size: 32pt;
+    text-align: center;
+    height: 100px;
+}
+
+button {
+    width: 90px;
+    height: 70px;
+    font-size: 18pt;
+    background-color: #444;
+}
